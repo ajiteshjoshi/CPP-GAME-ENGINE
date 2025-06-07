@@ -1,0 +1,3 @@
+Texture Dick sample.png
+Texture player_walk Bro_Walk.png
+Animation player_walk player_walk 7 8
